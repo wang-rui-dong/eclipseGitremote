@@ -1,6 +1,6 @@
 package com.polymorphism.demo1;
 
-//子类
+//子类123
 public class HappyMatcher extends Matcher {
 
 //	//重写父类的方法
